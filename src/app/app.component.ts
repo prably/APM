@@ -17,5 +17,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test application';
-  pageTitle = 'My Product Management';
+  pageTitle = 'feature -1';
 }
